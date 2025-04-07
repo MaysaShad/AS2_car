@@ -1,0 +1,143 @@
+.rounded-1 {
+    border-radius: 4px;
+}
+
+.rounded-2 {
+    border-radius: 8px;
+}
+
+.rounded-3 {
+    border-radius: 16px;
+}
+
+.rounded-4 {
+    border-radius: 24px;
+}
+
+.rounded-5 {
+    border-radius: 32px;
+}
+
+.border {
+    border: 1px solid #9E9E9E;
+}
+
+.border-top {
+    border-top: 1px solid #9E9E9E;
+}
+
+.border-right {
+    border-right: 1px solid #9E9E9E;
+}
+
+.border-bottom {
+    border-bottom: 1px solid #9E9E9E;
+}
+
+.border-left {
+    border-left: 1px solid #9E9E9E;
+}
+
+.border-top-0 {
+    border-top-width: 0;
+}
+
+.border-right-0 {
+    border-right-width: 0;
+}
+
+.border-bottom-0 {
+    border-bottom-width: 0;
+}
+
+.border-left-0 {
+    border-left-width: 0;
+}
+
+.border-red {
+    border-color: #F44336;
+}
+
+.border-pink {
+    border-color: #E91E63;
+}
+
+.border-purple {
+    border-color: #9C27B0;
+}
+
+.border-indigo {
+    border-color: #3F51B5;
+}
+
+.border-blue {
+    border-color: #2196F3;
+}
+
+.border-cyan {
+    border-color: #00BCD4;
+}
+
+.border-teal {
+    border-color: #009688;
+}
+
+.border-green {
+    border-color: #4CAF50;
+}
+
+.border-yellow {
+    border-color: #FFEB3B;
+}
+
+.border-orange {
+    border-color: #FF9800;
+}
+
+.border-brown {
+    border-color: #795548;
+}
+
+.border-gray-100 {
+    border-color: #F5F5F5;
+}
+
+.border-gray-200 {
+    border-color: #EEEEEE;
+}
+
+.border-gray-300 {
+    border-color: #E0E0E0;
+}
+
+.border-gray-400 {
+    border-color: #BDBDBD;
+}
+
+.border-gray-500 {
+    border-color: #9E9E9E;
+}
+
+.border-gray-600 {
+    border-color: #757575;
+}
+
+.border-gray-700 {
+    border-color: #616161;
+}
+
+.border-gray-800 {
+    border-color: #424242;
+}
+
+.border-gray-900 {
+    border-color: #212121;
+}
+
+.border-black {
+    border-color: #000000;
+}
+
+.border-white {
+    border-color: #FFFFFF;
+}
